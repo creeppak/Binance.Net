@@ -3,13 +3,15 @@
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
+    <Title>Binance.Net (CREEPPAK edit)</Title>
+    <PackageLicenseUrl></PackageLicenseUrl>
   </PropertyGroup>
   <PropertyGroup>
-    <PackageId>Binance.Net</PackageId>
+    <PackageId>Binance.Net.Creeppak.Edit</PackageId>
     <Authors>JKorf</Authors>
     <PackageVersion>9.1.6</PackageVersion>
-    <AssemblyVersion>9.1.6</AssemblyVersion>
-    <FileVersion>9.1.6</FileVersion>
+    <AssemblyVersion>9.1.106</AssemblyVersion>
+    <FileVersion>9.1.106</FileVersion>
     <Description>Binance.Net is a .Net wrapper for the Binance API, including Binance Futures. It includes all features the API provides, REST API and Websocket, using clear and readable objects including but not limited to Reading market info, Placing and managing orders and Reading balances and funds</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>Binance Binance.Net C# .Net CryptoCurrency Exchange API wrapper</PackageTags>

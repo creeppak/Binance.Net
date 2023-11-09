@@ -15064,7 +15064,7 @@
             The result of placing a new order
             </summary>
         </member>
-        <member name="P:Binance.Net.Objects.Models.Spot.BinancePlacedOrder.CreateTime">
+        <member name="P:Binance.Net.Objects.Models.Spot.BinancePlacedOrder.PlacedTime">
             <summary>
             The time the order was placed
             </summary>
